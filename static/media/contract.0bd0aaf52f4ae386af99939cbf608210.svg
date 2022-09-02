@@ -1,0 +1,24 @@
+<svg id="contract-svgrepo-com" xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <path id="Path_131" data-name="Path 131" d="M48,52.293l1,1,1-1V36H48Z" fill="#effaf2"/>
+  <rect id="Rectangle_122" data-name="Rectangle 122" width="2" height="16" transform="translate(48 18)" fill="#effaf2"/>
+  <path id="Path_132" data-name="Path 132" d="M38,8.708V49.524a3,3,0,0,0,2-2.816v-42A2.767,2.767,0,0,0,37,2H9C7.7,2,6.6,2,6.184,4H33A4.764,4.764,0,0,1,38,8.708Z" fill="#fff"/>
+  <circle id="Ellipse_1" data-name="Ellipse 1" cx="3" cy="3" r="3" transform="translate(16 9.708)" fill="#2f7038"/>
+  <path id="Path_133" data-name="Path 133" d="M36,9a3,3,0,0,0-3-3H5A3,3,0,0,0,2,9V51a3,3,0,0,0,3,3H33a3,3,0,0,0,3-3ZM32,48H24V46h8Zm0-6H10V40H32Zm0-4H10V36H32Zm0-4H10V32H32Zm0-4H10V28H32ZM19,7.708a5,5,0,1,1-5,5A5.006,5.006,0,0,1,19,7.708ZM6,20H32v2H6Zm0,4H32v2H6Zm0,3.708H8v2H6Zm0,4H8v2H6Zm0,4H8v2H6Zm0,4H8v2H6ZM6,46h8v2H6Z" fill="#effaf2"/>
+  <g id="Group_12" data-name="Group 12">
+    <path id="Path_134" data-name="Path 134" d="M37,0H9A4.875,4.875,0,0,0,4.092,3.946,4.847,4.847,0,0,0,0,8.708v42A5.264,5.264,0,0,0,5,56H33a5.132,5.132,0,0,0,4.908-4.238A5.16,5.16,0,0,0,42,46.708v-42A4.764,4.764,0,0,0,37,0ZM36,51a3,3,0,0,1-3,3H5a3,3,0,0,1-3-3V9A3,3,0,0,1,5,6H33a3,3,0,0,1,3,3Zm4-4.292a3,3,0,0,1-2,2.816V8.708A4.764,4.764,0,0,0,33,4H6.184C6.6,2,7.7,2,9,2H37a2.767,2.767,0,0,1,3,2.708Z"/>
+    <path id="Path_135" data-name="Path 135" d="M19,17.708a5,5,0,1,0-5-5A5.006,5.006,0,0,0,19,17.708Zm0-8a3,3,0,1,1-3,3A3,3,0,0,1,19,9.708Z"/>
+    <rect id="Rectangle_123" data-name="Rectangle 123" width="26" height="2" transform="translate(6 20)"/>
+    <rect id="Rectangle_124" data-name="Rectangle 124" width="26" height="2" transform="translate(6 24)"/>
+    <rect id="Rectangle_125" data-name="Rectangle 125" width="22" height="2" transform="translate(10 28)"/>
+    <rect id="Rectangle_126" data-name="Rectangle 126" width="22" height="2" transform="translate(10 32)"/>
+    <rect id="Rectangle_127" data-name="Rectangle 127" width="22" height="2" transform="translate(10 36)"/>
+    <rect id="Rectangle_128" data-name="Rectangle 128" width="22" height="2" transform="translate(10 40)"/>
+    <rect id="Rectangle_129" data-name="Rectangle 129" width="8" height="2" transform="translate(6 46)"/>
+    <rect id="Rectangle_130" data-name="Rectangle 130" width="8" height="2" transform="translate(24 46)"/>
+    <rect id="Rectangle_131" data-name="Rectangle 131" width="2" height="2" transform="translate(6 27.708)"/>
+    <rect id="Rectangle_132" data-name="Rectangle 132" width="2" height="2" transform="translate(6 31.708)"/>
+    <rect id="Rectangle_133" data-name="Rectangle 133" width="2" height="2" transform="translate(6 35.708)"/>
+    <rect id="Rectangle_134" data-name="Rectangle 134" width="2" height="2" transform="translate(6 39.708)"/>
+    <path id="Path_136" data-name="Path 136" d="M56,28.708v-8A2.767,2.767,0,0,0,53,18H52V16.708c0-.553-.448-.708-1-.708H47c-.552,0-1,.155-1,.708v36a1,1,0,0,0,.293.707l2,2a1,1,0,0,0,1.414,0l2-2A1,1,0,0,0,52,52.708V20h1c.551,0,1,.156,1,.708v7.764l-.9,1.789a1,1,0,0,0,0,.9l.9,1.788V36h2V32.708a.99.99,0,0,0-.106-.447l-.776-1.552.776-1.553A1,1,0,0,0,56,28.708ZM50,18V34H48V18ZM49,53.293l-1-1V36h2V52.293Z"/>
+  </g>
+</svg>
